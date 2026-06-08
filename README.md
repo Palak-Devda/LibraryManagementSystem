@@ -14,7 +14,7 @@ A Java-based Library Management System using OOP concepts and ArrayList.
 - Classes and Objects
 - Loops and Conditional Statements
 - 
-  ## Skills Demonstrated
+## Skills Demonstrated
 - Java Programming
 - Object-Oriented Programming
 - ArrayList Collections
@@ -24,7 +24,7 @@ A Java-based Library Management System using OOP concepts and ArrayList.
 ## Technologies
 - Java
 
-  ## Future Improvements
+## Future Improvements
 - Duplicate Book ID Validation
 - Search by Title
 - Delete Book
