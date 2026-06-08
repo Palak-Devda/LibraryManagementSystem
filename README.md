@@ -24,5 +24,13 @@ A Java-based Library Management System using OOP concepts and ArrayList.
 ## Technologies
 - Java
 
+  ## Future Improvements
+- Duplicate Book ID Validation
+- Search by Title
+- Delete Book
+- File Handling
+- GUI using Java Swing
+
+
 ## Author
 Palak Devda
